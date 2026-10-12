@@ -1,6 +1,6 @@
 Name:		python-structlog
 Version:	26.1.0
-Release:	1
+Release:	2
 Summary:	Structured logging for Python
 License:	MIT OR Apache-2.0
 Group:		Development/Python
